@@ -14,7 +14,7 @@ const CONFIG = {
   name: 'Justin',
   imageBackground: false,
   openInNewTab: true,
-  twelveHourFormat: true,
+  twelveHourFormat: false,
 
   // Greetings
   greetingMorning: 'Good morning!',
@@ -61,7 +61,7 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://www.icloud.com/',
+      link: 'https://icloud.com',
     },
     {
       id: '3',
